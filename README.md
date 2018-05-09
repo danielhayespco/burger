@@ -1,2 +1,36 @@
-# burger
-&lt;!DOCTYPE html> &lt;html lang="en">  &lt;head>     &lt;meta charset="utf-8"> &lt;/head>  &lt;body>  &lt;/body> &lt;header>     &lt;h1>Eat the Burger&lt;/h1> &lt;/header> &lt;section>     &lt;br>     &lt;h1>Description&lt;/h1>     &lt;h2>Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.&lt;/h2>     &lt;br>     &lt;h2>Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.&lt;/h2>     &lt;br>     &lt;h2>Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.&lt;/h2>     &lt;br>     &lt;h2>The app will store every burger in a database, whether devoured or not.&lt;/h2>     &lt;br>     &lt;h1>Packages -Node used&lt;/h1>     &lt;br>    &lt;h2>sequelize, express, body-parser, dotenv, mysql2, express-handlebars, and path&lt;/h2>     &lt;br>     &lt;h2>         &lt;a href="https://github.com/danielhayespco">Daniel Hayes&lt;/a>     &lt;/h2>     &lt;br>     &lt;h2>         &lt;a href="https://evening-bastion.herokuapp.com/">Eat Da Burger&lt;/a>     &lt;/h2> &lt;/section>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+</body>
+<header>
+    <h1>Eat the Burger</h1>
+</header>
+<section>
+    <br>
+    <h1>Description</h1>
+    <h2>Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.</h2>
+    <br>
+    <h2>Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.</h2>
+    <br>
+    <h2>Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.</h2>
+    <br>
+    <h2>The app will store every burger in a database, whether devoured or not.</h2>
+    <br>
+    <h1>Packages -Node used</h1>
+    <br>
+   <h2>sequelize, express, body-parser, dotenv, mysql2, express-handlebars, and path</h2>
+    <br>
+    <h2>
+        <a href="https://github.com/danielhayespco">Daniel Hayes</a>
+    </h2>
+    <br>
+    <h2>
+        <a href="https://secret-reef-56254.herokuapp.com/">Eat Da Burger</a>
+    </h2>
+</section>
